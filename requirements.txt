@@ -1,0 +1,8 @@
+numpy # numerical python
+pandas # data manipulation
+scikit-learn # models & data preprocessing
+openai # EDA Process
+groq # EDA Process       Fast compared to openai          not a model but a HW company
+seaborn # Visualizations
+dotenv
+matplotlib
